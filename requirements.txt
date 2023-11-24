@@ -1,4 +1,5 @@
 asttokens==2.4.1
+streamlit
 colorama==0.4.6
 comm==0.2.0
 contourpy==1.2.0
