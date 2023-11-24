@@ -16,7 +16,7 @@ if uploaded_file is not None:
     st.image(img, caption="uploaded_image")
 
 if st.button("PREDICT"):
-    CATEGORIES = ['Sunflower', 'rugby ball leather', 'ice cream cone']
+    CATEGORIES = ['Sunflower', 'Rugby ball leather', 'Ice cream cone']
     st.write("Result...")
     flat_data = []
     
